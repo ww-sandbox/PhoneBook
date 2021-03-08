@@ -1,5 +1,3 @@
-package Contacts;
-
 public enum ContactType {
     PRIV("Prywatny"), MOBI("Komórkowy"), WORK("Służbowy");
 
